@@ -1,0 +1,11 @@
+# package directories
+node_modules
+jspm_packages
+path-to-custom-temp-dir
+
+# Serverless directories
+.serverless
+.dynamodb
+
+# esbuild directories
+.esbuild
